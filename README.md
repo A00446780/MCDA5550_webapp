@@ -2,4 +2,4 @@
 
 App is running on:
 
-http://dev.cs.smu.ca/~h_soni/index.html
+http://dev.cs.smu.ca/~h_soni/project1/index.html
